@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <ul class="pagination">
+    <ul class="pagination justify-content-center">
       <li class="page-item" :class="{ disabled: !hasPrevPage }">
         <a aria-label="Previous" class="page-link" @click="prevPage">
           <span aria-hidden="true">&laquo; Previous</span>

@@ -25,6 +25,8 @@ Where `apiStringKey` is the given key generated at `thecatapi.com` website
 $ npm run dev
 ```
 
+Access `http://localhost:3000/` on your browser.
+
 ## Running in Production mode
 
 ```bash
